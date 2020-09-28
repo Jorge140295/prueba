@@ -3,6 +3,6 @@ use namespace std;
 
 int main(){
 
-cin>>"hola Mundo";
+cin>>"hola Mundo,  buenos dias";
 return 0;
 }
