@@ -1,8 +1,8 @@
-<#include iostream>
+#include <iostream>
 use namespace std;
 
 int main(){
 
-cin>>"hola";
+cin>>"hola Mundo";
 return 0;
 }
